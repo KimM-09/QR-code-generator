@@ -1,7 +1,7 @@
 # QR Code Generator
 
 ## Live Demo
-
+https://kimm-09.github.io/QR-code-generator/
 
 ## Application Summary
 This application was built using HTML, CSS, and Javascript.<br>
